@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Özge Topcu</h1>
 <h3 align="center">ASP.NET Geliştiricisi | Bilgisayar Mühendisliği Öğrencisi</h3>
-- 📫 Bana ulaşmak için: ozge2003topcu67@gmail.com
 
 ---
 
@@ -11,6 +10,7 @@ I'm Özge Topcu . I'm from Istanbul, Türkiye
 - 🔭 I'm a 3th year computer engineering student at Osmaniye Korkut Ata University.
 - 📚 I am currently progressing field of Backend Developer
 - ⚡I am open to improve myself.
+- 📫 To reach me: ozge2003topcu67@gmail.com
 
 
 ---
