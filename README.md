@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Özge Topcu</h1>
 <h3 align="center">ASP.NET Geliştiricisi | Bilgisayar Mühendisliği Öğrencisi</h3>
 
----
 
 
 ## 👩‍💻 About Me
