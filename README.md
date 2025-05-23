@@ -4,7 +4,7 @@
 
 
 ## 👩‍💻 About Me
-I'm Özge Topcu . I'm from Istanbul, Türkiye
+I'm Özge Topcu . I'm from Zonguldak, Türkiye
 
 - 🔭 I'm a 3th year computer engineering student at Osmaniye Korkut Ata University.
 - 📚 I am currently progressing field of Backend Developer
